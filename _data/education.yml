@@ -1,5 +1,17 @@
-- course: Statistics and Data Science
-  institute: ENSAE IP Paris
-  dates: 2018-2022
-  logo: ensae.png
+- course: Classes Prépa Maths and Physics
+  institute: Lycée Robespierre
+  dates: 2015 - 2018
+  logo: lycee_rob.png
+  link: "https://robespierre-arras.enthdf.fr/"
 
+- course: Statistics and Data Science
+  institute: ENSAE IP PARIS
+  dates: 2018 - 2022
+  logo: ensae.png
+  link: "https://ensae.fr/"
+
+- course: Statistics and Econometrics
+  institute: University of Mannheim
+  dates: March 2021 - July 2021
+  logo: university_mannheim.png
+  link: "https://www.uni-mannheim.de/en/"

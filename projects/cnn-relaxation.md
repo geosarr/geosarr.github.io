@@ -1,5 +1,5 @@
 ---
-title: Search Engine 
+title: Convex relaxation of CNN
 layout: page
 ---
 <br>

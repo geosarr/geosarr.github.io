@@ -1,0 +1,20 @@
+<h2>References</h2>
+<div class="card-container">
+  {% for item in site.data.references %}
+    {% if item.page-name %}
+      <a href="/references/{{ item.page-name}}">
+    {% endif %}
+    {% if item.link %}
+      <a href="{{item.link}}">
+    {% endif %}
+      <div class="card">
+        <img src="./assets/img/references/{{item.image}}" width="60px" height="60px">
+        <div class="info">
+          <p class="title">{{ item.title }}</p>
+          <p class="info">{{ item.description }}</p>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+</div>
+  

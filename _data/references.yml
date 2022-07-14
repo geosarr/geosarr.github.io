@@ -1,0 +1,9 @@
+- title: Flaticon
+  image: flaticon.png
+  description: For the icons on the website
+  page-name: icons
+
+- title: MLH - Fellowship
+  image: mlh.png
+  description: Portfolio template
+  link: https://github.com/MLH-Fellowship/portfolio-template

@@ -4,4 +4,4 @@ layout: page
 ---
 <br>
 
-Comming soon :) ...
+Please find, for now, the report <a href = "https://github.com/geosarr/search-engine/blob/main/ML_for_NLP_ENSAE_Report.pdf" >here </a>.

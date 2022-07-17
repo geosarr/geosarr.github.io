@@ -4,4 +4,4 @@ layout: page
 ---
 <br>
 
-Comming soon :) ...
+Please find, for now, the report <a href="https://github.com/geosarr/ml-for-finance/blob/main/ML_for_finance_report.pdf" >here</a> 

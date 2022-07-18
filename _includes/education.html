@@ -7,12 +7,12 @@
   <a>
   {% endif %}
     <div class="card">
+      <img src="./assets/img/education/{{item.logo}}">
       <div class="info">
         <p class="title">{{ item.course }}</p>
         <p class="location">{{ item.institute }}</p>
         <p class="dates">{{ item.dates }}</p>
       </div>
-      <img src="./assets/img/education/{{item.logo}}">
     </div>
   </a>
   {% endfor %}

@@ -1,3 +1,8 @@
+- title: Convex Relaxation of CNN
+  event: Compressed sensing project
+  date: March 2022
+  page-name: cnn-relaxation
+
 - title: Search Engine
   event: Machine Learning For NLP Project
   date: March 2022 - April 2022
@@ -5,10 +10,5 @@
 
 - title: LSTM stock returns prediction
   event: Machine Learning for Finance
-  date: March 2021 - April 2022
+  date: March 2022 - April 2022
   page-name: ml_for_finance
-
-- title: Convex Relaxation of CNN
-  event: Compressed sensing project
-  date: March 2021
-  page-name: cnn-relaxation
